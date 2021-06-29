@@ -4,5 +4,8 @@ Activa is quite simple bike
 
 it is of white color
 
+color does not matter 
+it can be red also
+
 
 bike ilage is 30km per liter
